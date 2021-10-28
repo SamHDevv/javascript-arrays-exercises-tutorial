@@ -1,7 +1,8 @@
 var people = ['juan','ana','michelle','daniella','stefany','lucy','barak'];
 
-function deletePerson(personName) {
-	return people.filter(name => name != personName);
+function deletePerson(personName)
+{
+	//your code here
 }
 
 console.log(deletePerson('daniella'));
