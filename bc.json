@@ -244,7 +244,7 @@
         {
             "slug": "08.3-Sum-all-items",
             "title": "08.3-Sum-all-items",
-            "done": false,
+            "done": true,
             "path": "exercises/08.3-Sum-all-items",
             "translations": [
                 "es",
@@ -277,7 +277,7 @@
         {
             "slug": "11-Do-while",
             "title": "11-Do-while",
-            "done": false,
+            "done": true,
             "path": "exercises/11-Do-while",
             "translations": [
                 "es",
@@ -288,7 +288,7 @@
         {
             "slug": "12-Delete-element",
             "title": "12-Delete-element",
-            "done": false,
+            "done": true,
             "path": "exercises/12-Delete-element",
             "translations": [
                 "es",
@@ -299,7 +299,7 @@
         {
             "slug": "13-Merge-arrays",
             "title": "13-Merge-arrays",
-            "done": false,
+            "done": true,
             "path": "exercises/13-Merge-arrays",
             "translations": [
                 "es",

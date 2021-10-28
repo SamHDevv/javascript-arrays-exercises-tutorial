@@ -10,4 +10,4 @@ var total = 0;
 	return total;
 }
 
-console.log(sumTheElements([2,13,34,5]))
+sumTheElements([2,13,34,5])
