@@ -10,12 +10,3 @@ let tasks = [
 ];
 
 //your code here
-
-var doneTasks = [];
-
-tasks.filter((task)=>{
-if (task.done == true) doneTasks.push(task)
-})
-
-
-console.log(doneTasks);
